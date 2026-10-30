@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the archived release and the manuscript."
+title: "A five-gene signature for hepatocellular carcinoma: analysis code"
+abstract: >-
+  Analysis code for the derivation and validation of a five-gene transcriptomic signature
+  (CDKN2A, CCT6A, CSTB, ACLY, EPRS1) that discriminates hepatocellular carcinoma from adjacent
+  liver tissue, stratifies prognosis and characterises the tumour immune microenvironment.
+authors:
+  - family-names: Gan
+    given-names: Chuan
+    orcid: "https://orcid.org/0009-0004-8207-8430"
+  - family-names: Gan
+    given-names: Lu
+    orcid: "https://orcid.org/0009-0007-6753-7389"
+  - family-names: Xia
+    given-names: Meng
+    orcid: "https://orcid.org/0000-0001-8075-9698"
+    email: xiam@gxtcmu.edu.cn
+version: "1.0.2"
+date-released: "2026-10-30"
+doi: "10.5281/zenodo.23802367"
+license: MIT
+type: software
+keywords:
+  - hepatocellular carcinoma
+  - gene expression signature
+  - weighted gene co-expression network analysis
+  - machine learning
+  - Mendelian randomisation
+  - single-cell RNA sequencing
