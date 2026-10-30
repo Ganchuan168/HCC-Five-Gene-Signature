@@ -1,0 +1,28 @@
+{
+  "title": "R scripts for the five-gene signature analysis in HCC",
+  "description": "Analysis code for the discovery, validation, and single-cell localization of a five-gene signature in hepatocellular carcinoma.",
+  "creators": [
+    {
+      "name": "Chuan Gan 0009-0004-8207-8430",
+      "affiliation": "Guangxi University of Chinese Medicine",
+      "orcid": "0000-0001-8075-9698"
+    },
+    {
+      "name": "Lu Gan 0009-0007-6753-7389",
+      "affiliation": "Your Institution"
+    },
+    {
+      "name": "Meng Xia 0000-0001-8075-9698",
+      "affiliation": "Your Institution"
+    }
+  ],
+  "keywords": [
+    "hepatocellular carcinoma",
+    "WGCNA",
+    "gene signature",
+    "Mendelian randomization",
+    "single-cell RNA-seq"
+  ],
+  "license": "MIT",
+  "upload_type": "software"
+}
