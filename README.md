@@ -66,7 +66,7 @@ of each script point to the project root and can be edited in one place.
 If you use this code, please cite the manuscript above and the archived release:
 
 > Gan C, Gan L, Xia M. A five-gene signature for hepatocellular carcinoma: analysis code.
-> Zenodo; 2026. doi:10.5281/zenodo.23802367
+> Zenodo; 2026. doi:10.5281/zenodo.23804625
 
 ## Licence
 
