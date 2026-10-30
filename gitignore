@@ -1,0 +1,18 @@
+# data are downloaded, never committed
+data/raw/
+data/processed/
+data/*.rds
+data/*.RData
+
+# analysis outputs
+results/
+*.rds
+*.RData
+*.pdf
+
+# session files
+.Rhistory
+.Rproj.user
+__pycache__/
+*.pyc
+.DS_Store
